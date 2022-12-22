@@ -14,6 +14,7 @@ class TasksController extends Controller
     public function index()
     {
         //
+        return 'est';
     }
 
     /**
@@ -23,7 +24,8 @@ class TasksController extends Controller
      */
     public function create()
     {
-        //
+        //  
+        return 'est';
     }
 
     /**
@@ -35,6 +37,7 @@ class TasksController extends Controller
     public function store(Request $request)
     {
         //
+          return 'estt';
     }
 
     /**
